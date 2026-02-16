@@ -1,6 +1,6 @@
 # Car Classes Using Java
 
-## 📌 Project Structure
+## Project Structure
 
     Vehicle.java      -> Abstract base class
     SUV.java          -> Extends Vehicle
@@ -8,7 +8,7 @@
     Hybrid.java       -> Extends Vehicle
     Demo.java         -> Main class to run the program
 
-## ✅ Prerequisites
+## Prerequisites
 
 -   Java JDK 8 or higher installed
 -   `javac` and `java` added to your system PATH
@@ -18,7 +18,7 @@ To verify installation:
     java -version
     javac -version
 
-## ▶️ How to Run the Program
+## How to Run the Program
 
 ### 1. Compile the Java Files
 
